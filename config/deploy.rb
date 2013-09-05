@@ -21,7 +21,6 @@ set :git_shallow_clone, 1
  
 role :web, domain
 role :app, domain
-role :db,  domain, :primary => true
  
 set :deploy_via, :remote_cache
  
