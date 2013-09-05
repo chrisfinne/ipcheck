@@ -7,5 +7,4 @@ When I'm on a corporate network (even when VPN'ing) that uses a web proxy, when 
 
 This is a simple site to allow you to check your ip address as seen by different destination ports.
 
-
-
+Hosted at: http://ipcheck.finne.us
